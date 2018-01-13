@@ -7,4 +7,4 @@
  https://en.wikipedia.org/wiki/Gheorghe_Hagi
 
 # Petrescu is best known for playing in the 1989 European Cup final with Steaua București and winning the UEFA Cup Winners' Cup in 1998 with English club Chelsea. He also amassed 95 international caps and twelve goals for the Romania national team.
-<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
+<img src="images/Legendele-Fotbalului/Hagi.jpg" alt="hi" class="inline"/>
