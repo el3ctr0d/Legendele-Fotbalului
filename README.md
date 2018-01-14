@@ -6,6 +6,7 @@
 <body>
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Gheorghe_Hagi">Gica Hagi</a> pentru legende ale fotbalului.</p>
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Diego_Maradona">Diego Maradona</a> pentru legende ale fotbalului.</p>
+  <img alt="Maradona 1986 vs italy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/220px-Maradona_1986_vs_italy.jpg" width="220" height="303" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/330px-Maradona_1986_vs_italy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/440px-Maradona_1986_vs_italy.jpg 2x" data-file-width="744" data-file-height="1024">
 <br />
 <p>Legatura la o <a href="Pagina locala.html">pagina</a> de net locala</p>
 <br />
