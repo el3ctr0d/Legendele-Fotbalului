@@ -83,7 +83,6 @@
 <p>Legatura la site oficial FIFA <a href="http://www.fifa.com/worldcup/">FIFA</a> pentru Campionatul Mondial de Fotbal.</p>
 <p>Campionatul Mondial de Fotbal sau Cupa Mondială FIFA (în engleză FIFA World Cup) este cea mai importantă competiție fotbalistică disputată între echipele naționale de fotbal. Competiția se desfășoară în sistem de cupă, și este împărțită în faza preliminară (calificări) și turneul final. Preliminariile se dispută pe durata a 1 an, fiecare continent având propriile reguli de calificare. Turneul final are loc o dată la 4 ani și se dispută la începutul verii pe durata unei luni (aproximativ). Țara organizatoare a turneului final este desemnată de FIFA cu cel puțin 4 ani înainte. Prima ediție a avut loc în anul 1930 în Uruguay, iar cea mai recentă în 2014 în Brazilia. Ediția din 2002 a fost prima din istoria competiției care a avut două țări organizatoare: Japonia și Coreea de Sud. Următoarele două ediții vor fi găzduite de Rusia în 2018 și Qatar în 2022. Campionatul Mondial de Fotbal este unul dintre cele mai importante evenimente sportive ale planetei. <br />
 </p>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -92,11 +91,26 @@
 <body>
 <table border="1"><caption>Titlul</caption>
 	<tr><th>Ediția</th><th>Gazdă</th><th>Campioană</th><th>Scor</th><th>Vicecampioană</th></tr>
-	<tr><td>continut</td><td>continut</td><td>continut</td><td>continut</td><td>continut</td></tr>
-	<tr><td>continut</td><td>continut</td><td>continut</td><td>continut</td><td>continut</td></tr>
-	<tr><td>continut</td><td>continut</td><td>continut</td><td>continut</td><td>continut</td></tr>
-	<tr><td>continut</td><td>continut</td><td>continut</td><td>continut</td><td>continut</td></tr>
-	<tr><td>continut</td><td>continut</td><td>continut</td><td>continut</td><td>continut</td></tr>
+	<tr><td>1930</td><td>Uruguay</td><td>Uruguay</td><td>4–2</td><td>Argentina</td></tr>
+	<tr><td>1934</td><td>Italia</td><td>Italia</td><td>2–1</td><td>Cehoslovacia</td></tr>
+	<tr><td>1938</td><td>Franța</td><td>Italia</td><td>4–2</td><td>Ungaria</td></tr>
+	<tr><td>1950</td><td>Brazilia</td><td>Uruguay</td><td>2–1</td><td>Brazilia</td></tr>
+	<tr><td>1954</td><td>Elveția</td><td>Germania de Vest</td><td>3–2</td><td>Ungaria</td></tr>
+	<tr><td>1958</td><td>Suedia</td><td>Brazilia</td><td>5–2</td><td>Suedia</td></tr>
+	<tr><td>1962</td><td>Chile</td><td>Brazilia</td><td>3–1</td><td>Cehoslovacia</td></tr>
+	<tr><td>1966</td><td>Anglia</td><td>Anglia</td><td>4–2</td><td>Germania de Vest</td></tr>
+	<tr><td>1970</td><td>Mexic</td><td>Brazilia</td><td>4–1</td><td>Italia</td></tr>
+	<tr><td>1974</td><td>Germania de Vest</td><td>Germania de Vest</td><td>2–1</td><td>Olanda</td></tr>
+	<tr><td>1978</td><td>Argentina</td><td>Argentina</td><td>3–1</td><td>Olanda</td></tr>
+	<tr><td>1982</td><td>Spania</td><td>Italia</td><td>3–1</td><td>Germania de Vest</td></tr>
+	<tr><td>1986</td><td>Mexic</td><td>Argentina</td><td>3–2</td><td>Germania de Vest</td></tr>
+	<tr><td>1990</td><td>Italia</td><td>Germania de Vest</td><td>1–0</td><td>Argentina</td></tr>
+	<tr><td>1994</td><td>Statele Unite</td><td>Brazilia</td><td>0–0(3–2pen.)</td><td>Italia</td></tr>
+	<tr><td>1998</td><td>Franța</td><td>Franța</td><td>3–0</td><td>Brazilia</td></tr>
+	<tr><td>2002</td><td>Coreea de Sud&Japonia</td><td>Brazilia</td><td>2–0</td><td>Germania</td></tr>
+	<tr><td>2006</td><td>Germania</td><td>Italia</td><td>1–1(5–3pen.)</td><td>Franța</td></tr>
+	<tr><td>2010</td><td>Africa de Sud</td><td>Spania</td><td>1–0</td><td>Olanda</td></tr>
+	<tr><td>2014</td><td>Brazilia</td><td>Germania</td><td>1–0</td><td>Argentina</td></tr>
 </table>
 
 </body>
