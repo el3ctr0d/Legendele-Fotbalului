@@ -15,7 +15,7 @@
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Lionel_Messi">Lionel Messi</a></p>
 
 <p>Legaturi catre paginile colorate:<br /><br />
-- pagina <a href="A.html">Rosia Montana</a><br />
+- pagina <a href="GicaHagi.html">Gica Hagi</a><br />
 - pagina <a href="B.html">Verde de Paris</a><br />
 - pagina <a href="C.html">Zarea Albastra</a><br/>
 </p>
