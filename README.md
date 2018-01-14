@@ -16,7 +16,7 @@
 
 <p>Legaturi catre paginile colorate:<br /><br />
 - pagina <a href="GicaHagi">Gica Hagi</a><br />
-- pagina <a href="B.html">Verde de Paris</a><br />
+- pagina <a href="Maradona.html">Armando Maradona</a><br />
 - pagina <a href="C.html">Zarea Albastra</a><br/>
 </p>
 
