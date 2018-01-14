@@ -22,8 +22,8 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Acum urmeaza un document lung, impartit in mai multe capitole :<br />
-  Inainte de a da clik, a se intarzia, de fiecare data, cateva momente cu mouse-ul pe legatura !</p>
+<p>In continuare cateva lucruri despre sportul care a incantat atatia oameni:<br />
+ </p>
 <br />
 <p>
 <p><a name="b">Cuprins</a><p><br /><br />
