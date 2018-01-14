@@ -6,7 +6,6 @@
 <body>
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Gheorghe_Hagi">Gica Hagi</a> pentru legende ale fotbalului.</p>
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Diego_Maradona">Diego Maradona</a> pentru legende ale fotbalului.</p>
-  <img alt="Maradona 1986 vs italy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/220px-Maradona_1986_vs_italy.jpg" width="220" height="303" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/330px-Maradona_1986_vs_italy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/440px-Maradona_1986_vs_italy.jpg 2x" data-file-width="744" data-file-height="1024">
 <br />
 <p>Legatura la o <a href="Pagina locala.html">pagina</a> de net locala</p>
 <br />
@@ -76,8 +75,8 @@
 <h3><p><a name="a2">Campionatul Mondial</a></h3>
 <br /><br />
 <p>Legatura la site oficial FIFA <a href="http://www.fifa.com/worldcup/">FIFA</a> pentru Campionatul Mondial de Fotbal.</p>
-<p>Campionatul Mondial de Fotbal sau Cupa Mondială FIFA (în engleză FIFA World Cup) este cea mai importantă competiție fotbalistică disputată între echipele naționale de fotbal. Competiția se desfășoară în sistem de cupă, și este împărțită în faza preliminară (calificări) și turneul final. Preliminariile se dispută pe durata a 1 an, fiecare continent având propriile reguli de calificare. Turneul final are loc o dată la 4 ani și se dispută la începutul verii pe durata unei luni (aproximativ). Țara organizatoare a turneului final este desemnată de FIFA cu cel puțin 4 ani înainte. Prima ediție a avut loc în anul 1930 în Uruguay, iar cea mai recentă în 2014 în Brazilia. Ediția din 2002 a fost prima din istoria competiției care a avut două țări organizatoare: Japonia și Coreea de Sud. Următoarele două ediții vor fi găzduite de Rusia în 2018 și Qatar în 2022. Campionatul Mondial de Fotbal este unul dintre cele mai importante evenimente sportive ale planetei. </p>
-<br />
+<p>Campionatul Mondial de Fotbal sau Cupa Mondială FIFA (în engleză FIFA World Cup) este cea mai importantă competiție fotbalistică disputată între echipele naționale de fotbal. Competiția se desfășoară în sistem de cupă, și este împărțită în faza preliminară (calificări) și turneul final. Preliminariile se dispută pe durata a 1 an, fiecare continent având propriile reguli de calificare. Turneul final are loc o dată la 4 ani și se dispută la începutul verii pe durata unei luni (aproximativ). Țara organizatoare a turneului final este desemnată de FIFA cu cel puțin 4 ani înainte. Prima ediție a avut loc în anul 1930 în Uruguay, iar cea mai recentă în 2014 în Brazilia. Ediția din 2002 a fost prima din istoria competiției care a avut două țări organizatoare: Japonia și Coreea de Sud. Următoarele două ediții vor fi găzduite de Rusia în 2018 și Qatar în 2022. Campionatul Mondial de Fotbal este unul dintre cele mai importante evenimente sportive ale planetei. <br />
+</p>
 <br />
 
  <a href="#b" title="Te duce sus">Cuprins</a>
@@ -129,8 +128,11 @@
 <p>E unul dintre dintre cei mai buni fotbaliști din secolul 20, datorită realizărilor cu Argentina. </p>
 <p>2. Pele </p>
 <p> A devenit un simbol nemuritor al fotbalului  brazilian al secolului 20. </p>
+<p> Conform IFFHS, Pelé este cel mai de succes marcator în ligă din lume, cu 541 de goluri.În total Pelé a marcat 1281 de goluri în 1363 de meciuri, inclusiv amicale neoficiale,motiv pentru care a fost înscris în Guinness World Records cu cele mai multe goluri marcate de-a lungul carierei în fotbal. În timpul când făcea parte din lumea sportului, Pelé fost pentru o perioadă cel mai bine plătit sportiv din lume. </p>
+<p> În Brazilia, Pelé este considerat a fi un erou național pentru performanțele obținute în fotbal și sprijinul politicii de a îmbunătăți condițiile sociale ale săracilor. În 1961, Președintele Braziliei Jânio Quadros a declarat că Pelé este „o comoară națională”. De-a lungul carierei sale, el a devenit cunoscut ca „Perla Neagră” (Pérola Negra), „Regele Fotbalului” (O Rei do Futebol), „Regele Pelé” (O Rei Pelé) sau pur și simplu „Regele” (O Rei). </p>
 <p>1. Messi </p>
 <p>Jucătorul de 26 de ani a reușit să facă multe lucruri la doar 26 de ani. A doborât recorduri mondiale în fotbal, în prezent joacă pentru Barcelona și a fost considerat de patru ori cel mai bun jucător din lume din cadrul FIFA. </p>
+<p> Messi a fost golgheterul Campionatului mondial de tineret din 2005 marcând două goluri chiar în finală. La scurt timp după, a devenit un membru cu drepturi depline la prima reprezentativă. În 2006 el a devenit cel mai tânăr jucător care a evoluat la Campionatul Mondial, și a câștigat medalia de argint la Copa América în anul următor. La Olimpiada din Beijing el a câștigat primul trofeu cu naționala mare, medalia de aur cu echipa olimpică de fotbal a Argentinei. </p>
 <p><br /> <br /></p>
 
  <a href="#b" title="Te duce sus">Cuprins</a>
