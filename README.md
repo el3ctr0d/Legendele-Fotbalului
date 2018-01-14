@@ -89,7 +89,7 @@
 <title>Structura unui tabel</title>
 </head>
 <body>
-<table border="1"><caption>Titlul</caption>
+<table border="1"><caption>Istoria Finalelor Campionatului Mondial</caption>
 	<tr><th>Ediția</th><th>Gazdă</th><th>Campioană</th><th>Scor</th><th>Vicecampioană</th></tr>
 	<tr><td>1930</td><td>Uruguay</td><td>Uruguay</td><td>4–2</td><td>Argentina</td></tr>
 	<tr><td>1934</td><td>Italia</td><td>Italia</td><td>2–1</td><td>Cehoslovacia</td></tr>
