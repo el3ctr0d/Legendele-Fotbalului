@@ -15,7 +15,8 @@
 - pagina <a href="C.html">Zarea Albastra</a><br/>
 </p>
 <br />
-https://user-images.githubusercontent.com/35404779/34914835-77c47656-f923-11e7-97b8-601dc1716996.jpg
+  <p> <a href="https://user-images.githubusercontent.com/35404779/34914835-77c47656-f923-11e7-97b8-601dc1716996.jpg"></p>
+
 <p> Hagi
 <a href="Hagi.JPG"><img 
 src="Hagi.JPG" title="Priveste cum creste" alt="Nu poti, nu poti, asta e !" /></a>
