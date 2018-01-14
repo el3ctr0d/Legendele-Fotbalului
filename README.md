@@ -4,7 +4,7 @@
 </head>
 
 <body>
-   
+   <p>"Sa joci fotbal este foarte simplu, dar sa joci un fotbal simplu este cel mai dificil lucru" - Johan Cruyff</p>
   
   <p>* Gheorghe Hagi</p>
   <img alt="Lansarea candidaturii Gabrielei Szabo pentru Camera Deputatilor, Voluntari - 04.05 (48) (14270956179) (cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg/200px-Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg" width="200" height="254" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg/300px-Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg/400px-Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg 2x" data-file-width="847" data-file-height="1074">
