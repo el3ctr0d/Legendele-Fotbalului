@@ -16,11 +16,11 @@
 </p>
 <br />
 
-<p>Pune mana pe Cristina 
+<p> Hagi
 <a href="Hagi.JPG"><img 
 src="Hagi.JPG" title="Priveste cum creste" alt="Nu poti, nu poti, asta e !" /></a>
 , si tine-o acolo! (In definitiv, de ce ai lua-o?!)</p><br /><br />
-
+[[/images/path/to/image.ext|ALT TEXT]]
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Acum urmeaza un document lung, impartit in mai multe capitole :<br />
