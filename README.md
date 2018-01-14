@@ -21,7 +21,7 @@
 <a href="user-images.githubusercontent.com/35404779/34914835-77c47656-f923-11e7-97b8-601dc1716996.jpg"><img 
 src="user-images.githubusercontent.com/35404779/34914835-77c47656-f923-11e7-97b8-601dc1716996.jpg" title="Priveste cum creste" alt="Nu poti, nu poti, asta e !" /></a>
 , si tine-o acolo! (In definitiv, de ce ai lua-o?!)</p><br /><br />
-[[/images/path/to/image.ext|ALT TEXT]]
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Acum urmeaza un document lung, impartit in mai multe capitole :<br />
