@@ -14,7 +14,7 @@
   <img alt="Lionel Messi 2017.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lionel_Messi_2017.jpg/250px-Lionel_Messi_2017.jpg" width="250" height="338" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/Lionel_Messi_2017.jpg 1.5x" data-file-width="335" data-file-height="453">
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Lionel_Messi">Lionel Messi</a></p>
 
-<p>Legaturi catre paginile colorate:<br /><br />
+<p>Alte legaturi:<br /><br />
 - pagina <a href="GicaHagi">Gica Hagi</a><br />
 - pagina <a href="Maradona.html">Armando Maradona</a><br />
 - pagina <a href="Messi.html">Lionel Mesi</a><br/>
@@ -80,7 +80,8 @@
 <p>Legatura la site oficial FIFA <a href="http://www.fifa.com/worldcup/">FIFA</a> pentru Campionatul Mondial de Fotbal.</p>
 <p>Campionatul Mondial de Fotbal sau Cupa Mondială FIFA (în engleză FIFA World Cup) este cea mai importantă competiție fotbalistică disputată între echipele naționale de fotbal. Competiția se desfășoară în sistem de cupă, și este împărțită în faza preliminară (calificări) și turneul final. Preliminariile se dispută pe durata a 1 an, fiecare continent având propriile reguli de calificare. Turneul final are loc o dată la 4 ani și se dispută la începutul verii pe durata unei luni (aproximativ). Țara organizatoare a turneului final este desemnată de FIFA cu cel puțin 4 ani înainte. Prima ediție a avut loc în anul 1930 în Uruguay, iar cea mai recentă în 2014 în Brazilia. Ediția din 2002 a fost prima din istoria competiției care a avut două țări organizatoare: Japonia și Coreea de Sud. Următoarele două ediții vor fi găzduite de Rusia în 2018 și Qatar în 2022. Campionatul Mondial de Fotbal este unul dintre cele mai importante evenimente sportive ale planetei. <br />
 </p>
-<br />
+<p><br /></p>
+<p><br /></p>
 
  <a href="#b" title="Te duce sus">Cuprins</a>
 <p>&nbsp;</p>
