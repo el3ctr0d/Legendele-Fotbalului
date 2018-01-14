@@ -5,6 +5,7 @@
 
 <body>
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Gheorghe_Hagi">Gica Hagi</a> pentru legende ale fotbalului.</p>
+<p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Diego_Maradona">Diego Maradona</a> pentru legende ale fotbalului.</p>
 <br />
 <p>Legatura la o <a href="Pagina locala.html">pagina</a> de net locala</p>
 <br />
