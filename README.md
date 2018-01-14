@@ -1,12 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Aruncati ancora!</title>
+<title>Gica Hagi!</title>
 </head>
 
 <body>
-<p>Legatura la un magazin <a href="http://www.emag.ro/">on-line</a> de produse electronice si IT.</p>
+<p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Gheorghe_Hagi">on-line</a> pentru legende ale fotbalului.</p>
 <br />
 <p>Legatura la o <a href="Pagina locala.html">pagina</a> de net locala</p>
 <br />
