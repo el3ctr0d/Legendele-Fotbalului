@@ -35,8 +35,9 @@
 <a href="#a4" title="Te duce la Trofee in instoria Fotbalului">Trofee in istoria Fotbalului</a> |
 </p>
 <br />
-
+<font color="black">
 <h3><a name="a1">Inceputurile Fotbalului</a></h3>
+   </font>
 <br /><br />
 
 <p> Fotbalul a fost un sport foarte popular în Anglia încă de la mijlocul secolului XIX. Primul său mare defect a fost acela că nu avea stabilit un set de reguli clare. Fiecare juca fotbal cum dorea, urmînd propriile sale reguli </p>
