@@ -22,7 +22,7 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>In continuare cateva lucruri despre sportul care a incantat atatia oameni:<br />
+<p>In continuare cateva lucruri despre sportul care a incantat atatia oameni.<br />
  </p>
 <br />
 <p>
