@@ -18,7 +18,7 @@
 
 <p>Pune mana pe Cristina 
 <a href="Hagi.JPG"><img 
-src="Cristina.jpg" title="Priveste cum creste Cristina" alt="Nu poti, nu poti, asta e !" /></a>
+src="Hagi.JPG" title="Priveste cum creste" alt="Nu poti, nu poti, asta e !" /></a>
 , si tine-o acolo! (In definitiv, de ce ai lua-o?!)</p><br /><br />
 
 <p>&nbsp;</p>
