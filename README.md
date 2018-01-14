@@ -4,20 +4,18 @@
 </head>
 
 <body>
+  <p>Gheorghe Hagi</p>
   <img alt="Lansarea candidaturii Gabrielei Szabo pentru Camera Deputatilor, Voluntari - 04.05 (48) (14270956179) (cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg/200px-Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg" width="200" height="254" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg/300px-Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg/400px-Lansarea_candidaturii_Gabrielei_Szabo_pentru_Camera_Deputatilor%2C_Voluntari_-_04.05_%2848%29_%2814270956179%29_%28cropped%29.jpg 2x" data-file-width="847" data-file-height="1074">
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Gheorghe_Hagi">Gica Hagi</a> pentru legende ale fotbalului.</p>
+  <p>Diego Armando Maradona </p>
  <img alt="Maradona 1986 vs italy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/220px-Maradona_1986_vs_italy.jpg" width="220" height="303" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/330px-Maradona_1986_vs_italy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maradona_1986_vs_italy.jpg/440px-Maradona_1986_vs_italy.jpg 2x" data-file-width="744" data-file-height="1024">
 <p>Legatura la Wikipedia <a href="https://en.wikipedia.org/wiki/Diego_Maradona">Diego Maradona</a> pentru legende ale fotbalului.</p>
-<br />
-<p>Legatura la o <a href="Pagina locala.html">pagina</a> de net locala</p>
-<br />
+
 <p>Legaturi catre paginile colorate:<br /><br />
 - pagina <a href="A.html">Rosia Montana</a><br />
 - pagina <a href="B.html">Verde de Paris</a><br />
 - pagina <a href="C.html">Zarea Albastra</a><br/>
 </p>
-<br />
-  <p> Hagi <a href="https://user-images.githubusercontent.com/35404779/34914835-77c47656-f923-11e7-97b8-601dc1716996.jpg"></p><br /><br />
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
