@@ -17,7 +17,7 @@
 <p>Legaturi catre paginile colorate:<br /><br />
 - pagina <a href="GicaHagi">Gica Hagi</a><br />
 - pagina <a href="Maradona.html">Armando Maradona</a><br />
-- pagina <a href="C.html">Zarea Albastra</a><br/>
+- pagina <a href="Messi.html">Lionel Mesi</a><br/>
 </p>
 
 <p>&nbsp;</p>
